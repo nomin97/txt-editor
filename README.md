@@ -12,10 +12,10 @@
   - [Questions](#questions)
   
   ## Link
-  Heroku Link: 
+  Heroku Link: https://git.heroku.com/stark-sierra-20879.git
   
   ## Installation 
-  Heroku Link: 
+  Heroku Link: https://git.heroku.com/stark-sierra-20879.git
   
   ## Usage
   Visit the link and user can start using right away. 
